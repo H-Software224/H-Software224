@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 My name is Ju Sang Han.
 
 ## My Goal
-Data Analyst / Data Scientist
+Data Analyst / Data Scientist / Machine Learning Engineer
+
+## Motivation 
+I first learned about AI through a matchup between AlphaGo and Go player Sedol Lee. Through this, I learned that AI can benefit people. During my classes at Kyung Hee University, I was impressed by the subject called machine learning. Machine learning literally means that machines learn by recognizing human behavior and patterns. This is a subject that made me realize that AI has an algorithm that thinks logically. With this opportunity, I want to research algorithms that are better than those used previously by squeezing data such as images and videos that contain people's patterns into algorithms, and I want to collaborate with many people rather than alone.
 
 ## Primary Tech Stack
-
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
 ![html5](https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
@@ -31,6 +33,11 @@ Data Analyst / Data Scientist
 ![googlecolab](https://img.shields.io/badge/googlecolab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![visualstudio](https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+## Item of using open-source software
+![pytorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 ## My Github stats
 ![H-Software224's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Software224&show_icons=true&theme=radical)
