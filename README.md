@@ -27,6 +27,7 @@ Data Analyst / Data Scientist / Machine Learning Engineer
 <p>
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/python.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/mysql.svg" />
+  <img height="32" width="32" src="images/excel.png" /> 
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/anaconda.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/googlecolab.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/pandas.svg" />
@@ -36,12 +37,16 @@ Data Analyst / Data Scientist / Machine Learning Engineer
 ### ML/DL Engineering Programming Tools
 <p>
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/pytorch.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/scikitlearn.svg" />  
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/scikitlearn.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/scipy.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/opencv.svg" />
 </p>
 
 ### Data Visualization Programming Tools
 <p>
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/scipy.svg" />
+  <img height="32" width="32" src="images/icons8-power-bi-2021.png" /> 
+  <img height="32" width="32" src="images/matplotlib.png" />
+  <img height="32" width="32" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" />
 </p>
 
 ### Backend Engineering Programming Language & Tools
@@ -52,6 +57,23 @@ Data Analyst / Data Scientist / Machine Learning Engineer
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/flask.svg" />
 </p>
 
+### Office Automation Tools
+<p>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/Ayrshare_idDnd-O02-_0.jpeg" />
+  <img height="32" width="32" src="images/icons8-office-365.svg" />
+</p>
+
+### Graphic Tools
+<p>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/figma.svg" />
+</p>
+
+### Cloud & DevOps Tools
+<p>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/docker.svg" />
+  <img height="32" width="32" src="images/aws-color.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/streamlit.svg" />
+</p>
 
 ### Teamwork & Collaboration
 <p>
@@ -61,13 +83,6 @@ Data Analyst / Data Scientist / Machine Learning Engineer
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/slack.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/discord.svg" />
 </p>
-
-### 
-
-## Item of using open-source software
-![pytorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 ## My Github stats
 ![H-Software224's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Software224&show_icons=true&theme=radical)
