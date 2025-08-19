@@ -44,7 +44,7 @@ Data Analyst / Data Scientist / Machine Learning Engineer
 
 ### Data Visualization Programming Tools
 <p>
-  <img height="32" width="32" src="images/icons8-power-bi-2021.png" /> 
+  <img height="32" width="32" src="images/icons8-power-bi-2021.svg" /> 
   <img height="32" width="32" src="images/matplotlib.png" />
   <img height="32" width="32" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" />
 </p>
@@ -59,7 +59,7 @@ Data Analyst / Data Scientist / Machine Learning Engineer
 
 ### Office Automation Tools
 <p>
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/Ayrshare_idDnd-O02-_0.jpeg" />
+  <img height="32" width="32" src="images/Ayrshare_idDnd-O02-_0.jpeg" />
   <img height="32" width="32" src="images/icons8-office-365.svg" />
 </p>
 
@@ -82,6 +82,14 @@ Data Analyst / Data Scientist / Machine Learning Engineer
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/notion.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/slack.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/discord.svg" />
+</p>
+
+### ELSE Progamming Languages & Tools
+<p>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/cplusplus.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/kotlin.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/flutter.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/androidstudio.svg" />
 </p>
 
 ## My Github stats
