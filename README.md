@@ -116,7 +116,7 @@ Data Analyst / Data Scientist / Machine Learning Engineer
 - 워드프로세서 2급/3급 (2010)
 
 ## My Github stats
-![H-Software224's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Software224&show_icons=true&theme=radical)
+![H-Software224's GitHub stats](https://github-readme-stats-deb20.vercel.app/api?show_icons=true&theme=radical&username=H-Software224)
 
 ## My Baekjoon stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=han05280505)](https://solved.ac/han05280505)
